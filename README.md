@@ -13,4 +13,4 @@ I am a passionate full stack developer who enjoys new challenges. I have experie
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedamer2&show_icons=true)  
 
 ### Skills
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg' width='32' height='32'>] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg' width='32' height='32'>]
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg' width='32' height='32'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg' width='32' height='32'>
