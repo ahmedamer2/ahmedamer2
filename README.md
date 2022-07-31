@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Ahmed
 #### I am a **Software Engineer**
-I am a **Software Engineer**
 
 I am a passionate full stack developer who enjoys new challenges. I have experience using Front-End frameworks such as Vue.js and Back-End applications such as C# and Java.
 
