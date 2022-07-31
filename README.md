@@ -11,3 +11,5 @@ I am a passionate full stack developer who enjoys new challenges. I have experie
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedamer2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-amer-1339371bb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16958203)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ahmedamer2.github.io)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedamer2&show_icons=true)  
+
+### Skills
